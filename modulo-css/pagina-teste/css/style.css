@@ -1,0 +1,19 @@
+#my-title {
+    color: blueviolet;
+}
+
+#my-title strong {
+    color: chocolate;
+}
+
+#sub-title {
+    color: cornflowerblue;
+}
+
+#sub-title em {
+    color: crimson;
+}
+
+#sub-title strong {
+    color: darkblue;
+}
